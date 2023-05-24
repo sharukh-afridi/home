@@ -10,8 +10,7 @@ const Footer = (props) => {
         {props.children}
         <p>
           <small className="text-muted">
-            Project code is open source. Feel free to fork and make your own
-            version.
+            Opportunities don't arrive, you create them.
           </small>
         </p>
       </Container>
