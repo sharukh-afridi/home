@@ -10,7 +10,7 @@ const Footer = (props) => {
         {props.children}
         <p>
           <small className="text-muted">
-            Opportunities don't arrive, you create them.
+            Success is not final, failure is not fatal: it's the courage to continue that counts!
           </small>
         </p>
       </Container>
